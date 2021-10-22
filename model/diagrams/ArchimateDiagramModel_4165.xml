@@ -107,7 +107,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4197"
-      targetConnections="d9ceaa2d bcc398db 018ccb3c">
+      targetConnections="d9ceaa2d bcc398db 018ccb3c"
+      fillColor="#00f900">
     <bounds
         x="8"
         y="74"
